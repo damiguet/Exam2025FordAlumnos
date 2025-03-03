@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Final Ord APP</string>
+    <string name="action_preferences">Preferencias</string>
+    <string name="guardar">Guardar</string>
+    <string name="seleccion">Seleccion</string>
+    <string name="configurador">CONFIGURACIÓN</string>
+    <string name="nombre">Número alu:</string>
+    <string name="restaurar">restaurar</string>
+    <string name="nombre_municipio">nombre del municipio</string>
+    <string name="CODIGOINE_municipio">código del municipio</string>
+    <string name="favoritos">favoritos</string>
+    <string name="a_adir_a_favoritos">Añadir a favoritos</string>
+    <string name="detalles_del_municipio">Detalles del Municipio</string>
+    <string name="soleado">Soleado</string>
+
+</resources>
